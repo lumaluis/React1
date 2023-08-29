@@ -4,9 +4,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts inside text-analyzer-tool
 
 In the project directory, you can run:
+
+### `npm install`
+
+To install all the dependencies of the project
 
 ### `npm start`
 
