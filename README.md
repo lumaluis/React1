@@ -57,11 +57,19 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 Hello, how are you?
 Lorem Ipsum is dummied text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 It has survived five centuries and the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
 The above text contains:
+
 Words: 90
+
 Characters: 568
+
 Sentences: 5
+
 Paragraphs: 3
+
 Pronouns: 4
+
 Average Reading Time: ~1 minute
+
 Longest word: typesetting
